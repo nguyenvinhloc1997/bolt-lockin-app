@@ -1,0 +1,11 @@
+{
+  "name": "remote-access-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
